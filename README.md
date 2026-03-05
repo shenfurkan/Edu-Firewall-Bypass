@@ -12,7 +12,7 @@ Okul ve kütüphane ağlarındaki sansür iki katmanda çalışır:
 | Katman | Nasıl Çalışır? | Standart VPN'in Sorunu |
 |---|---|---|
 | **1. IP Engelleme** | Bağlanmak istediğin adres kara listede mi diye kontrol eder | Ticari VPN'lerin IP aralıkları zaten listelerde |
-| **2. Paket İnceleme (DPI)** | Veri paketinin içine bakarak onu tanımlar | WireGuard, OpenVPN'in kendine özgü imzaları var, kolayca tespitedilir ya da onlara ait portları engellerler |
+| **2. Paket İnceleme (DPI)** | Veri paketinin içine bakarak onu tanımlar | WireGuard, OpenVPN'in kendine özgü imzaları var, kolayca tespitedilir ya da onlara ait portları engellerler
 Piyasadaki popüler çözümlerin neden bu tür ağlarda işe yaramadığını bizzat test ettik fakat çalıştıramadık. Hepsinin ya bilinen IP blokları var ya da trafiğinin kendine özgü bir "imzası" (parmak izi) vardır. Ağ yöneticileri bu imzaları ve IP listelerini satın alarak filtrelerine ekler.
 
 Bu rehberdeki mimari her iki katmanı da geçersiz kılar:
