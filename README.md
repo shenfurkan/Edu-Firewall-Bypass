@@ -1,7 +1,7 @@
 # Okul/Kurum Ağı Kısıtlamalarını Aşma Rehberi
 ## AWS Üzerinde Self-Hosted Amnezia + Xray Kurulumu
 
-> ⚠️ **Yasal Uyarı:** Bu rehber yalnızca **akademik araştırma, ağ güvenliği analizi ve eğitim** amacıyla hazırlanmıştır. Anlatılan yöntemlerin gerçek ortamlarda uygulanması, bulunduğunuz ülkenin yasalarıyla veya kurumunuzun kullanım politikalarıyla çelişebilir. Doğabilecek her türlü hukuki ve teknik sorumluluk kullanıcıya aittir. Bu depo, sistem açıklarının kötüye kullanılmasını teşvik etmemektedir.
+> ⚠️ **Yasal Uyarı:** Bu rehber yalnızca **akademik araştırma, ağ güvenliği analizi ve eğitim** amacıyla hazırlanmıştır. Anlatılan yöntemlerin gerçek ortamlarda uygulanması, bulunduğunuz ülkenin yasalarıyla veya kurumunuzun kullanım politikalarıyla çelişebilir. Doğabilecek her türlü hukuki ve teknik sorumluluk kullanıcıya aittir. Bu yazı, sistem açıklarının kötüye kullanılmasını teşvik etmemektedir.
 
 ---
 
